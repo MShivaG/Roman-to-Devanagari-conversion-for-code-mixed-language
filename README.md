@@ -15,4 +15,4 @@ Our contribution towards creating the model:
   3.Thus model understand the morphological difference between the English and the Hindi words.
   4.Encoder and Decoder are used in our model where encoder encodes the source word and decoder outputs translation from encode vector
 Results:
-  The Language Identification model works well by char - char method. But the English - Hindi model doesnt work by char by char method. It might work in Hinglish to Hindi model.
+  The Language Identification model works well by char - char method. But the English - Hindi model doesnt work by char by char method. This model doesnt learn the morphological difference between the hindi and english words. It might work in Hinglish to Hindi model since these words are of same pronounciation with hindi words.
